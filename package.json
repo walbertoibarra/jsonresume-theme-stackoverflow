@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-stackoverflow",
-  "version": "1.4.0",
-  "description": "Stack Overflow theme for JSON Resume",
-  "author": "Francesco Esposito <http://fran.cesco.io>",
+  "name": "jsonresume-theme-stackoverflow-es",
+  "version": "1.5.0",
+  "description": "A translation of Stack Overflow theme in spanish",
+  "author": "Walberto Ibarra",
   "repository": {
     "type": "git",
-    "url": "https://github.com/francescoes/jsonresume-theme-stackoverflow"
+    "url": "https://github.com/walbertoibarra/jsonresume-theme-stackoverflow-es"
   },
   "license": "MIT",
   "main": "index.js",
