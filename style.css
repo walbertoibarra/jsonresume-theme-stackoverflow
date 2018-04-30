@@ -361,7 +361,7 @@ h2.section-title {
 .institution::before,
 .organization::before,
 .awarder::before {
-    content: "at "
+    content: "en "
 }
 
 .company,
@@ -692,7 +692,7 @@ ul.courses li:hover {
     .institution::before,
     .organization::before,
     .awarder::before {
-        content: "at ";
+        content: "en ";
     }
     .main-summary {
         padding: 2rem 0;
@@ -738,7 +738,7 @@ ul.courses li:hover {
         font-weight: 600;
     }
     ul.keywords::before {
-        content: "Skills acquired: ";
+        content: "Habilidades adquiridas: ";
     }
     #skills .keywords::before {
         content: '';
@@ -748,7 +748,7 @@ ul.courses li:hover {
         padding: 0;
     }
     ul.courses::before {
-        content: "Major courses: ";
+        content: "Cursos principales: ";
     }
     ul.keywords li:last-of-type::after,
     ul.courses li:last-of-type::after {
