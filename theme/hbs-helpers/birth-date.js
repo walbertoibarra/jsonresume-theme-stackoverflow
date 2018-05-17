@@ -12,7 +12,7 @@ const birthDate = (birth) => {
     }
     const year = birth.date ? moment(birth.date.toString(), ['DD-MM-YYYY']).format('YYYY') : '';
     if (year && birth.place && birth.state) {
-      out.push(` in ${year}</div>`);
+      out.push(` en ${year}</div>`);
     } else if (year && (!birth.place || birth.state)) {
       out.push(`<div> Nacido en ${year}</div>`);
     }
